@@ -5,7 +5,6 @@ The **React_Node** project focuses on developing a RESTful API to manage meeting
 
 - **Create new meetings**
 - **Retrieve meeting details**
-- **Update existing meetings**
 - **Delete meetings**
 
 The backend server is configured with routes and controllers to handle these operations, while the React front-end interacts with the API to manage meeting data effectively.
